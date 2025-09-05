@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adityasent99
+- 👋 Hi, I’m Aditya
 - 👀 I’m interested in cybersecurity and data science
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on any beginner level projects 
